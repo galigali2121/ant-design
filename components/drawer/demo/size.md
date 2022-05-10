@@ -39,7 +39,7 @@ const App: React.FC = () => {
           Open Default Size (378px)
         </Button>
         <Button type="primary" onClick={showLargeDrawer}>
-          Open Large Size (736px)
+          Open Large Size (1472px)
         </Button>
       </Space>
       <Drawer
